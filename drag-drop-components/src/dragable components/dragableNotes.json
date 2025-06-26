@@ -1,0 +1,5 @@
+{
+    "backlog" : ["ITCECCA-1" ,"ITCECCA-2"],
+    "in-progress": ["ITCECCA-3" ,"ITCECCA-4" ],
+    "completed": ["ITCECCA-5" ,"ITCECCA-6" ]
+}
